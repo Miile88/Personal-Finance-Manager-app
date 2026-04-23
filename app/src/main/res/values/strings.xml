@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My application</string>
+    <string name="title_finance_calculator">Finance Calculator</string>
+    <string name="hint_monthly_salary">Monthly Salary</string>
+    <string name="hint_monthly_rent">Monthly Rent</string>
+    <string name="hint_food_expenses">Food Expenses</string>
+    <string name="btn_calculate">Calculate Finance</string>
+    <string name="title_result">Calculation Result</string>
+    <string name="btn_back">Back to Input</string>
+    <string name="label_salary">Salary: </string>
+    <string name="label_rent">Rent: </string>
+    <string name="label_food">Food: </string>
+    <string name="label_total_expenses">Total Expenses: </string>
+    <string name="label_remaining_balance">Remaining Balance: </string>
+    <string name="label_recommended_savings">Recommended Savings: </string>
+</resources>
